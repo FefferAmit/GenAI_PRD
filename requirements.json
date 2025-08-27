@@ -2,7 +2,7 @@
   {
     "id": "REQ-0001",
     "title": "Telemetry MVP",
-    "description": "TBD",
+    "description": "Telemetry for GenAI data MVP",
     "type": "functional",
     "priority": "medium",
     "status": "draft",
@@ -18,7 +18,7 @@
     "last_modified_by": "Amit Feffer",
     "reviewers": "",
     "created_at": "2025-08-27T14:21:08.845471",
-    "updated_at": "2025-08-27T14:22:19.841162"
+    "updated_at": "2025-08-27T14:30:22.250773"
   },
   {
     "id": "REQ-0002",
