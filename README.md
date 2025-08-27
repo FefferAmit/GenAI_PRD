@@ -1,20 +1,22 @@
 # Requirements Management
 
 ## Overview
-This repository contains 1 requirements managed through our Requirements Management System.
+This repository contains 3 requirements managed through our Requirements Management System.
 
 ## Statistics
-- **Total Requirements**: 1
+- **Total Requirements**: 3
 - **By Status**:
-  - Draft: 1
+  - Draft: 3
 - **By Priority**:
-  - Medium: 1
+  - Medium: 3
 
 ## Files
 - `requirements.json`: Complete requirements data in JSON format
 - `README.md`: This overview file
 
 ## Recent Requirements
+- **REQ-0001**: Test verr
+- **REQ-0002**: MCP design UI
 - **REQ-0003**: Canada region 
 
 ## Workflow
@@ -23,4 +25,4 @@ This repository contains 1 requirements managed through our Requirements Managem
 3. Use branches for different feature sets or releases
 4. Create pull requests for requirement reviews
 
-Generated on: 2025-08-27T12:54:54.311174Z
+Generated on: 2025-08-27T12:56:08.690639Z
