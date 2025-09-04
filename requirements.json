@@ -128,7 +128,7 @@
   {
     "id": "GENAI-0007",
     "title": "MCP- Policy Management & Enforcement",
-    "description": "As an IT Administrator, I want to:\n\nCreate policies that block high-risk MCP activities so I can prevent security incidents\nSet up alerts for policy violations so I can respond quickly to issues\nManage AI agent permissions centrally so I can maintain consistent security controls",
+    "description": "As an IT Administrator, I want to:\n\nCreate policies that block high-risk MCP activities so I can prevent security incidents\nSet up alerts for policy violations so I can respond quickly to issues\nManage AI agent permissions centrally so I can maintain consistent security controls\n\nFunctional requirement:\nAllow policies configured in Harmony Browse to be defined for desktop applications and MCP servers in the same way that policies are defined for GenAI web applications.\n ",
     "type": "functional",
     "priority": "medium",
     "status": "draft",
@@ -144,7 +144,7 @@
     "last_modified_by": "Amit Feffer",
     "reviewers": "",
     "created_at": "2025-09-01T09:28:06.092808",
-    "updated_at": "2025-09-01T09:28:06.092811"
+    "updated_at": "2025-09-01T13:36:43.104088"
   },
   {
     "id": "GENAI-0008",
@@ -187,5 +187,26 @@
     "reviewers": "",
     "created_at": "2025-09-01T09:33:17.351632",
     "updated_at": "2025-09-01T09:33:17.351636"
+  },
+  {
+    "id": "GENAI-0010",
+    "title": "Files - Detection requirement ",
+    "description": "We want to be able to say within a certain session if besides that text prompt a file was uploaded. In the first phase will not be able to provide the actual file but we will be able to provide:\n\nFile name, file size and file type + whether the file contained any sensitive date and data type",
+    "type": "functional",
+    "priority": "high",
+    "status": "review",
+    "acceptance_criteria": "Within a session- The user shall be able to see whether a session was detected due to the text in the file or prompt, what data and data type triggered detection and What was the triggering text.",
+    "business_value": "",
+    "effort": "10",
+    "owner": "",
+    "source": "",
+    "jira_issue": "",
+    "dependencies": "",
+    "tags": "",
+    "branch": "main",
+    "last_modified_by": "Amit Feffer",
+    "reviewers": "",
+    "created_at": "2025-09-04T11:54:57.610296",
+    "updated_at": "2025-09-04T11:57:17.943039"
   }
 ]
