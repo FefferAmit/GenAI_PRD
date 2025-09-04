@@ -6,8 +6,8 @@ This repository contains 10 requirements managed through our Requirements Manage
 ## Statistics
 - **Total Requirements**: 10
 - **By Status**:
-  - Draft: 8
-  - In-Progress: 1
+  - Draft: 7
+  - In-Progress: 2
   - Review: 1
 - **By Priority**:
   - Medium: 6
@@ -30,4 +30,4 @@ This repository contains 10 requirements managed through our Requirements Manage
 3. Use branches for different feature sets or releases
 4. Create pull requests for requirement reviews
 
-Generated on: 2025-09-04T11:58:00.200757Z
+Generated on: 2025-09-04T13:42:42.963623Z
